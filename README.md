@@ -48,23 +48,23 @@ Aplikasi berbasis Python yang digunakan untuk mencatat transaksi penjualan makan
 ### 🧑‍💻 Instalasi Dari Kode Sumber (Source Code)
 
 1. Clone repositori ini:
-bash
+```bash
 git clone https://github.com/Ficky675/Pemesanan-Online-Seblak-Jaya
-
+```
 2. Masuk ke di rektori proyek:
-bash
+```bash
 cd Pemesanan-Online-Seblak-Jaya
+```
 
-
-2. Instal dependensi yang diperlukan:
-bash
+3. Instal dependensi yang diperlukan:
+```bash
 pip instal dist/transaksi.json
+```
 
-
-2. Masuk ke di rektori proyek:
-bash
+4. Masuk ke di rektori proyek:
+```bash
 phyton src\UASDPK.py
-
+```
 
 ---
 
@@ -102,7 +102,7 @@ plaintext
 ## 📄 Dokumentasi Kode (Ringkasan)
 
 *flowchart*
-![alt text](IMG_20250607_124716.jpg?raw=true)
+![alt text](gambar/IMG_20250607_124716.jpg?raw=true)
 
 *Tampilan Utama*
 ![alt text](gambar/Tampilan_Utama.jpg?raw=true)
@@ -122,7 +122,7 @@ plaintext
 ![alt text](gambar/Struk_pembelanjaan.jpg?raw=true)
 
 *Tampilan JSON*
-bash
+```bash
 {
     "penjual": "wira",
     "total": 74000,
@@ -163,7 +163,7 @@ bash
         }
     ]
 }
-
+```
 
 ---
 
@@ -175,6 +175,6 @@ Proyek ini dibuat untuk keperluan tugas UAS DPK dan bebas digunakan untuk keperl
 
 ## 🙌 Kontributor
 
-- *Nama:* [Achmad Ficky Andrian]
+- *Nama:* [Firman Ahmad Dani]
 - *Sekolah:* SMKN 1 Probolinggo
 - *Mata Pelajaran:* Dasar Pemrograman Komputer (DPK)
