@@ -88,14 +88,14 @@ phyton src\UASDPK.py
 
 ## 📁 Struktur Folder
 
-plaintext
+```plaintext
 .
 ├── UASDPK.py           # File utama Python (kode sumber)
 ├── UASDPK.exe          # File executable hasil konversi (opsional)
 ├── UASDPK.spec         # File spesifikasi PyInstaller (jika dikompilasi)
 ├── transaksi.json      # Output file JSON hasil transaksi
 └── README.md           # Dokumentasi aplikasi
-
+```
 
 ---
 
